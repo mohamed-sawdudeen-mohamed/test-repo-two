@@ -7,6 +7,7 @@ git revert
 git reset --hard
 git clone [repo_url]
 git remote -v
+git remote add origin [repo_url]
 git push
 git fetch
 git pull
