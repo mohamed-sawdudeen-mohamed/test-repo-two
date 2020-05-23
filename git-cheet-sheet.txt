@@ -2,3 +2,11 @@ git init
 git status
 git add [file-name]
 git commit -m "[meesage]"
+git log --oneline
+git revert
+git reset --hard
+git clone [repo_url]
+git remote -v
+git push
+git fetch
+git pull
